@@ -11,3 +11,6 @@ El análisis muestra que Kana Hanazawa es la artista con más endings registrado
 Además, 2018 vuelve a ser el año con más temas registrados, con 803, seguido de 2017 con 766 y 2019 con 686. Esta coincidencia con el análisis anterior sugiere que el período 2017-2019 tuvo una presencia destacada tanto en openings como en endings.
 
 Conclusión: Kana Hanazawa destaca por su participación en endings, mientras que 2018 se mantiene como el año con mayor cantidad de temas en los datos analizados.
+
+3."los animes con más temas musicales tienden a tener más episodios"
+Los resultados muestran que los animes con un solo tema musical tienen un promedio de 10 episodios, mientras que aquellos con 6 o más temas alcanzan un promedio de 46,2 episodios. Se observa una tendencia general al aumento de episodios a medida que crece la cantidad de temas musicales, aunque existen algunas variaciones entre los grupos.
