@@ -1,3 +1,4 @@
+-- ¿Qué géneros tienen la mejor nota promedio?
 SELECT
   g.genero,
   ROUND(AVG(n.nota), 1) AS nota_promedio,

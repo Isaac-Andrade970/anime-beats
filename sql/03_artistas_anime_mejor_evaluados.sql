@@ -1,3 +1,4 @@
+-- ¿Qué artistas cantan en los animes mejor evaluados?
 SELECT 
   a.artista,
   ROUND(AVG(n.nota), 1) AS nota_promedio,

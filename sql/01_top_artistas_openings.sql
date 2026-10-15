@@ -1,3 +1,4 @@
+-- ¿Qué artistas han cantado más openings de anime?
 SELECT
   a.artista,
   COUNT(*) AS openings
@@ -7,4 +8,4 @@ JOIN `anime_beats.temas` AS t
 WHERE t.tipo = 'OP'
 GROUP BY a.artista
 ORDER BY openings DESC
-LIMIT 10;
+LIMIT 15;
